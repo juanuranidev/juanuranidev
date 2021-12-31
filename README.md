@@ -9,7 +9,7 @@ Lenguajes
 
 Librerías/Frameworks
 - ReactJS
--jQuery
+- jQuery
 - Bootstrap
 
 Herramientas
