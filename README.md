@@ -20,4 +20,5 @@ Herramientas
 Otro
 - SASS
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanuranidev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=juanuranidev&&show_icons=true&theme=dark&text_color=ffffff">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanuranidev&layout=compact&theme=dark&text_color=ffffff">
