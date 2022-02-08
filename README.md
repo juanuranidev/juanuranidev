@@ -1,8 +1,5 @@
-Hi, i'm Juan Urani 👋
-
-Front-End developer | Future Full-Stack developer | Studying systems engineering
-
-Knowledge in:
+Hi, i'm Juan Urani 👋<br>
+<a href="https://www.linkedin.com/in/juanurani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 Languages<br>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
