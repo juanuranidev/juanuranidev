@@ -1,4 +1,4 @@
-Hi, i'm Juan Urani 👋<br>
+Hi, i'm Juan Urani<br>
 
 <a href="https://www.linkedin.com/in/juanurani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
