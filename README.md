@@ -1,30 +1,28 @@
-Hi, i'm Juan Urani<br>
+### 👷 Juan Urani **`Product Engineer`**  
 
-<a href="https://www.linkedin.com/in/juanurani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+Product engineer and content creator, building my own version of the digital world with a passion for software architecture. In my profile you will find different projects, from applications to practice software architecture to applications that solve real life problems and bring value. All projects are publicly built from scratch, from planning, design and development, using different design and architecture patterns. 
 
-Languages<br>
+Welcome to my world. #BUILDINPUBLIC
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<a href="https://www.linkedin.com/in/juanurani/" target="_blank">
+  <img alt="LinkedIn badge" title="LinkedIn profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
+
+---
+
+### 🛠️ Languages and Tools
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-Frontend<br>
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-Backend<br>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-Databases<br>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Tools<br>
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=juanuranidev&&show_icons=true&theme=dark&text_color=ffffff">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanuranidev&layout=compact&theme=dark&text_color=ffffff">
+---
+
+### 📊 Stats
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanuranidev&show_icons=true&theme=dark&hide_border=true)
+![Juan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=juanuranidev&theme=dark&hide_border=true)
