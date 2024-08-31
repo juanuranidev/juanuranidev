@@ -1,3 +1,5 @@
+---
+
 ### 👷 Juan Urani **`Product Engineer`**  
 
 Product engineer and content creator, building my own version of the digital world with a passion for software architecture. In my profile you will find different projects, from applications to practice software architecture to applications that solve real life problems and bring value. All projects are publicly built from scratch, from planning, design and development, using different design and architecture patterns. 
@@ -27,4 +29,4 @@ Welcome to my world. #BUILDINPUBLIC
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanuranidev&show_icons=true&theme=dark&hide_border=true)
 ![Juan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=juanuranidev&theme=dark&hide_border=true)
 
-
+---
