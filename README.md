@@ -26,7 +26,7 @@ Welcome to my world. #BUILDINPUBLIC
 ---
 
 ### 📊 Stats
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanuranidev&show_icons=true&theme=dark&hide_border=true)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanuranidev&show_icons=true&theme=dark&hide_border=true&hide_rank=true)
 ![Juan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=juanuranidev&theme=dark&hide_border=true)
 
 ---
