@@ -1,18 +1,17 @@
----
-I'm Juan Urani 👷 A product engineer and sometimes a content creator, building my own version of the digital world with a passion for software architecture. In my profile you will find different projects, from applications to practice software architecture to applications that solve real life problems and bring value. All projects are publicly built from scratch, from planning, design and development, using different design and architecture patterns. 
+### Hello 👋🏻
+
+Hey! I'm Juan Urani A product engineer and sometimes a content creator, currently building my own version of the digital world with a passion for software architecture. In my profile you will find different projects, from applications to practice software architecture to applications that solve real life problems and bring value. All projects are publicly built from scratch, from planning, design and development, using different design and architecture patterns. 
 
 - 🛠️ Currently building Monetro.
-- 👷 Working at [Santander](https://www.linkedin.com/company/santandertec/posts/?feedView=all/) as a software engineer.
-- 📫 How to reach me: Found me on [LinkedIn](https://www.linkedin.com/in/juanurani/)
-- 💼 Open to freelance, ¿have an idea? Send me a message.
+- 👷🏻‍♂️ Working at [Santander](https://www.linkedin.com/company/santandertec/posts/?feedView=all/) as a software engineer.
+- 📫 How to reach me: Found me on [LinkedIn](https://www.linkedin.com/in/juanurani/).
+- 💼 Available for freelance projects! ¿Have an idea? Let's discuss, send me a message.
 
 Welcome to my world. #BUILDINPUBLIC
 
 <a href="https://www.linkedin.com/in/juanurani/" target="_blank">
   <img alt="LinkedIn badge" title="LinkedIn profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
-
----
 
 ### 🛠️ Favorite languages and tools
 
