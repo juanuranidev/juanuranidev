@@ -9,10 +9,6 @@ Hey! I'm Juan Urani A product engineer and sometimes a content creator, currentl
 
 Welcome to my world. #BUILDINPUBLIC
 
-<a href="https://www.linkedin.com/in/juanurani/" target="_blank">
-  <img alt="LinkedIn badge" title="LinkedIn profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> 
-
 ### 🛠️ Favorite languages and tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
