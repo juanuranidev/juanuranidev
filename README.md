@@ -4,8 +4,8 @@ Hey! I'm Juan Urani A product engineer and sometimes a content creator, currentl
 
 - 🛠️ Currently building Monetro.
 - 👷🏻‍♂️ Working at [Santander](https://www.linkedin.com/company/santandertec/posts/?feedView=all/) as a software engineer.
-- 📫 How to reach me: Found me on [LinkedIn](https://www.linkedin.com/in/juanurani/).
-- 💼 Available for freelance projects! ¿Have an idea? Let's discuss, send me a message.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/juanurani/).
+- 💼 I'm Available for freelance projects. ¿Have an idea? Let's discuss, send me a message.
 
 Welcome to my world. #BUILDINPUBLIC
 
